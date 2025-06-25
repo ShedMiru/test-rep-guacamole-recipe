@@ -6,7 +6,7 @@
 * cilantro
 * tomatoes
 * onion
-* jalapeno
+* serrano
 ## Instructions
 1. 2 ripe avocados.
 2. 1/4 teaspoon kosher salt, plus more to taste.
